@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CodeScanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="itemID">Item ID</string>
+    <string name="name">Name</string>
+    <string name="reserve">Number of Reserves</string>
+    <string name="price">Price</string>
+</resources>
